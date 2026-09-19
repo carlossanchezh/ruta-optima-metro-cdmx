@@ -100,10 +100,10 @@ El programa sigue un flujo de ejecución claro que va desde la carga inicial de 
 ```plaintext
 .
 ├── assets/
-│  └── MapaMetroCDMX.png           # Imagen del mapa de metro
+│  └── MapaMetroCDMX.png            # Imagen del mapa de metro
 │ 
 ├── docs/
-│   └── Coordenadas Paradas CDMX.md # Coordenadas reales de cada parada
+│   └── CoordenadasParadasCDMX.md   # Coordenadas reales de cada parada
 │ 
 ├── src/
 │   ├── a_star.py                   # Implementación del algoritmo A* y heurística
