@@ -111,7 +111,12 @@ El programa sigue un flujo de ejecución claro que va desde la carga inicial de 
 │   ├── graph.py                    # Carga de datos y utilidades del grafo
 │   └── data/
 │       └── stations.json           # Base de datos con estaciones, coordenadas y conexiones
-│ 
+│
+├── INSTRUCTIONS.md                 # Instrucciones de instalación y ejecución del proyecto
 ├── README.md                       # Descripción del proyecto
 └── requirements.txt                # Requerimientos de instalación para python
 ```
+
+## Instalación y ejecución
+
+Ver [INSTRUCTIONS.md](INSTRUCTIONS.md)
