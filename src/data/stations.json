@@ -1,0 +1,804 @@
+{
+  "canvas_size": [
+    1550,
+    950
+  ],
+  "lines": {
+    "L1": {
+      "name": "Línea 1",
+      "color": "#D81B60",
+      "stations": [
+        "Observatorio",
+        "Tacubaya",
+        "Juanacatlan",
+        "Chapultepec",
+        "Sevilla",
+        "Insurgentes",
+        "Cuauhtemoc",
+        "Balderas"
+      ]
+    },
+    "L3": {
+      "name": "Línea 3",
+      "color": "#7CB342",
+      "stations": [
+        "Universidad",
+        "Copilco",
+        "M. A. de Quevedo",
+        "Viveros",
+        "Coyoacan",
+        "Zapata",
+        "Division del norte",
+        "Eugenia",
+        "Etiopia",
+        "Centro Medico",
+        "Hospital General",
+        "Niños Heroes",
+        "Balderas",
+        "Juarez"
+      ]
+    },
+    "L7": {
+      "name": "Línea 7",
+      "color": "#FF9800",
+      "stations": [
+        "Barranca del Muerto",
+        "Mixcoac",
+        "San Antonio",
+        "San Pedro de los Pinos",
+        "Tacubaya",
+        "Constituyentes",
+        "Auditorio",
+        "Polanco"
+      ]
+    },
+    "L9": {
+      "name": "Línea 9",
+      "color": "#795548",
+      "stations": [
+        "Tacubaya",
+        "Patriotismo",
+        "Chilpancingo",
+        "Centro Medico",
+        "Lazaro Cardenas"
+      ]
+    },
+    "L12": {
+      "name": "Línea 12",
+      "color": "#004D40",
+      "stations": [
+        "Mixcoac",
+        "Insurgentes Sur",
+        "Hospital 20 de Noviembre",
+        "Zapata",
+        "Parque de los Venados",
+        "Eje Central"
+      ]
+    }
+  },
+  "stations": [
+    {
+      "name": "Observatorio",
+      "x": 19.398333333333333,
+      "y": -99.20027777777779,
+      "lines": [
+        "L1"
+      ],
+      "x_coords": 100,
+      "y_coords": 342
+    },
+    {
+      "name": "Tacubaya",
+      "x": 19.403333333333332,
+      "y": -99.18722222222223,
+      "lines": [
+        "L1",
+        "L7",
+        "L9"
+      ],
+      "x_coords": 200,
+      "y_coords": 308
+    },
+    {
+      "name": "Juanacatlan",
+      "x": 19.412777777777777,
+      "y": -99.18222222222222,
+      "lines": [
+        "L1"
+      ],
+      "x_coords": 300,
+      "y_coords": 274
+    },
+    {
+      "name": "Chapultepec",
+      "x": 19.420833333333334,
+      "y": -99.1763888888889,
+      "lines": [
+        "L1"
+      ],
+      "x_coords": 400,
+      "y_coords": 240
+    },
+    {
+      "name": "Sevilla",
+      "x": 19.421944444444446,
+      "y": -99.17055555555557,
+      "lines": [
+        "L1"
+      ],
+      "x_coords": 500,
+      "y_coords": 206
+    },
+    {
+      "name": "Insurgentes",
+      "x": 19.423333333333336,
+      "y": -99.16305555555556,
+      "lines": [
+        "L1"
+      ],
+      "x_coords": 600,
+      "y_coords": 172
+    },
+    {
+      "name": "Cuauhtemoc",
+      "x": 19.425833333333333,
+      "y": -99.15472222222223,
+      "lines": [
+        "L1"
+      ],
+      "x_coords": 700,
+      "y_coords": 172
+    },
+    {
+      "name": "Balderas",
+      "x": 19.427500000000002,
+      "y": -99.14916666666667,
+      "lines": [
+        "L1",
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 172
+    },
+    {
+      "name": "Universidad",
+      "x": 19.324444444444445,
+      "y": -99.1738888888889,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 771
+    },
+    {
+      "name": "Copilco",
+      "x": 19.335833333333333,
+      "y": -99.17666666666668,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 735
+    },
+    {
+      "name": "M. A. de Quevedo",
+      "x": 19.34638888888889,
+      "y": -99.18111111111112,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 699
+    },
+    {
+      "name": "Viveros",
+      "x": 19.353611111111114,
+      "y": -99.17611111111111,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 649
+    },
+    {
+      "name": "Coyoacan",
+      "x": 19.36138888888889,
+      "y": -99.17083333333333,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 596
+    },
+    {
+      "name": "Division del norte",
+      "x": 19.38,
+      "y": -99.1588888888889,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 468
+    },
+    {
+      "name": "Zapata",
+      "x": 19.370833333333334,
+      "y": -99.165,
+      "lines": [
+        "L3",
+        "L12"
+      ],
+      "x_coords": 800,
+      "y_coords": 531
+    },
+    {
+      "name": "Etiopia",
+      "x": 19.395555555555553,
+      "y": -99.1563888888889,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 361
+    },
+    {
+      "name": "Centro Medico",
+      "x": 19.406666666666666,
+      "y": -99.15583333333333,
+      "lines": [
+        "L3",
+        "L9"
+      ],
+      "x_coords": 800,
+      "y_coords": 308
+    },
+    {
+      "name": "Eugenia",
+      "x": 19.385555555555555,
+      "y": -99.1575,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 430
+    },
+    {
+      "name": "Hospital General",
+      "x": 19.41361111111111,
+      "y": -99.1538888888889,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 237
+    },
+    {
+      "name": "Niños Heroes",
+      "x": 19.419444444444444,
+      "y": -99.15055555555556,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 197
+    },
+    {
+      "name": "Juarez",
+      "x": 19.43305555555556,
+      "y": -99.14777777777779,
+      "lines": [
+        "L3"
+      ],
+      "x_coords": 800,
+      "y_coords": 103
+    },
+    {
+      "name": "Barranca del Muerto",
+      "x": 19.360555555555557,
+      "y": -99.19027777777778,
+      "lines": [
+        "L7"
+      ],
+      "x_coords": 200,
+      "y_coords": 700
+    },
+    {
+      "name": "Mixcoac",
+      "x": 19.375833333333333,
+      "y": -99.1875,
+      "lines": [
+        "L7",
+        "L12"
+      ],
+      "x_coords": 200,
+      "y_coords": 531
+    },
+    {
+      "name": "San Antonio",
+      "x": 19.384722222222223,
+      "y": -99.1863888888889,
+      "lines": [
+        "L7"
+      ],
+      "x_coords": 200,
+      "y_coords": 435
+    },
+    {
+      "name": "San Pedro de los Pinos",
+      "x": 19.391388888888887,
+      "y": -99.18611111111112,
+      "lines": [
+        "L7"
+      ],
+      "x_coords": 200,
+      "y_coords": 390
+    },
+    {
+      "name": "Constituyentes",
+      "x": 19.411944444444444,
+      "y": -99.1913888888889,
+      "lines": [
+        "L7"
+      ],
+      "x_coords": 200,
+      "y_coords": 248
+    },
+    {
+      "name": "Auditorio",
+      "x": 19.425555555555558,
+      "y": -99.19194444444445,
+      "lines": [
+        "L7"
+      ],
+      "x_coords": 200,
+      "y_coords": 155
+    },
+    {
+      "name": "Polanco",
+      "x": 19.433611111111112,
+      "y": -99.19111111111111,
+      "lines": [
+        "L7"
+      ],
+      "x_coords": 200,
+      "y_coords": 100
+    },
+    {
+      "name": "Patriotismo",
+      "x": 19.40611111111111,
+      "y": -99.17888888888889,
+      "lines": [
+        "L9"
+      ],
+      "x_coords": 362,
+      "y_coords": 308
+    },
+    {
+      "name": "Chilpancingo",
+      "x": 19.40583333333333,
+      "y": -99.16861111111112,
+      "lines": [
+        "L9"
+      ],
+      "x_coords": 525,
+      "y_coords": 308
+    },
+    {
+      "name": "Lazaro Cardenas",
+      "x": 19.40694444444444,
+      "y": -99.14500000000001,
+      "lines": [
+        "L9"
+      ],
+      "x_coords": 900,
+      "y_coords": 308
+    },
+    {
+      "name": "Insurgentes Sur",
+      "x": 19.37361111111111,
+      "y": -99.17888888888889,
+      "lines": [
+        "L12"
+      ],
+      "x_coords": 362,
+      "y_coords": 531
+    },
+    {
+      "name": "Hospital 20 de Noviembre",
+      "x": 19.371944444444445,
+      "y": -99.17111111111112,
+      "lines": [
+        "L12"
+      ],
+      "x_coords": 525,
+      "y_coords": 531
+    },
+    {
+      "name": "Parque de los Venados",
+      "x": 19.370833333333334,
+      "y": -99.15861111111111,
+      "lines": [
+        "L12"
+      ],
+      "x_coords": 871,
+      "y_coords": 531
+    },
+    {
+      "name": "Eje Central",
+      "x": 19.36138888888889,
+      "y": -99.15138888888889,
+      "lines": [
+        "L12"
+      ],
+      "x_coords": 920,
+      "y_coords": 596
+    }
+  ],
+  "edges": {
+    "Observatorio": [
+      {
+        "to": "Tacubaya",
+        "line": "L1"
+      }
+    ],
+    "Tacubaya": [
+      {
+        "to": "Observatorio",
+        "line": "L1"
+      },
+      {
+        "to": "Juanacatlan",
+        "line": "L1"
+      },
+      {
+        "to": "San Pedro de los Pinos",
+        "line": "L7"
+      },
+      {
+        "to": "Constituyentes",
+        "line": "L7"
+      },
+      {
+        "to": "Patriotismo",
+        "line": "L9"
+      }
+    ],
+    "Juanacatlan": [
+      {
+        "to": "Tacubaya",
+        "line": "L1"
+      },
+      {
+        "to": "Chapultepec",
+        "line": "L1"
+      }
+    ],
+    "Chapultepec": [
+      {
+        "to": "Juanacatlan",
+        "line": "L1"
+      },
+      {
+        "to": "Sevilla",
+        "line": "L1"
+      }
+    ],
+    "Sevilla": [
+      {
+        "to": "Chapultepec",
+        "line": "L1"
+      },
+      {
+        "to": "Insurgentes",
+        "line": "L1"
+      }
+    ],
+    "Insurgentes": [
+      {
+        "to": "Sevilla",
+        "line": "L1"
+      },
+      {
+        "to": "Cuauhtemoc",
+        "line": "L1"
+      }
+    ],
+    "Cuauhtemoc": [
+      {
+        "to": "Insurgentes",
+        "line": "L1"
+      },
+      {
+        "to": "Balderas",
+        "line": "L1"
+      }
+    ],
+    "Balderas": [
+      {
+        "to": "Cuauhtemoc",
+        "line": "L1"
+      },
+      {
+        "to": "Niños Heroes",
+        "line": "L3"
+      },
+      {
+        "to": "Juarez",
+        "line": "L3"
+      }
+    ],
+    "Universidad": [
+      {
+        "to": "Copilco",
+        "line": "L3"
+      }
+    ],
+    "Copilco": [
+      {
+        "to": "Universidad",
+        "line": "L3"
+      },
+      {
+        "to": "M. A. de Quevedo",
+        "line": "L3"
+      }
+    ],
+    "M. A. de Quevedo": [
+      {
+        "to": "Copilco",
+        "line": "L3"
+      },
+      {
+        "to": "Viveros",
+        "line": "L3"
+      }
+    ],
+    "Viveros": [
+      {
+        "to": "M. A. de Quevedo",
+        "line": "L3"
+      },
+      {
+        "to": "Coyoacan",
+        "line": "L3"
+      }
+    ],
+    "Coyoacan": [
+      {
+        "to": "Viveros",
+        "line": "L3"
+      },
+      {
+        "to": "Zapata",
+        "line": "L3"
+      }
+    ],
+    "Zapata": [
+      {
+        "to": "Division del norte",
+        "line": "L3"
+      },
+      {
+        "to": "Parque de los Venados",
+        "line": "L12"
+      },
+      {
+        "to": "Hospital 20 de Noviembre",
+        "line": "L12"
+      },
+      {
+        "to": "Coyoacan",
+        "line": "L3"
+      }
+    ],
+    "Division del norte": [
+      {
+        "to": "Eugenia",
+        "line": "L3"
+      },
+      {
+        "to": "Zapata",
+        "line": "L3"
+      }
+    ],
+    "Eugenia": [
+      {
+        "to": "Division del norte",
+        "line": "L3"
+      },
+      {
+        "to": "Etiopia",
+        "line": "L3"
+      }
+    ],
+    "Etiopia": [
+      {
+        "to": "Eugenia",
+        "line": "L3"
+      },
+      {
+        "to": "Centro Medico",
+        "line": "L3"
+      }
+    ],
+    "Centro Medico": [
+      {
+        "to": "Etiopia",
+        "line": "L3"
+      },
+      {
+        "to": "Hospital General",
+        "line": "L3"
+      },
+      {
+        "to": "Chilpancingo",
+        "line": "L9"
+      },
+      {
+        "to": "Lazaro Cardenas",
+        "line": "L9"
+      }
+    ],
+    "Hospital General": [
+      {
+        "to": "Centro Medico",
+        "line": "L3"
+      },
+      {
+        "to": "Niños Heroes",
+        "line": "L3"
+      }
+    ],
+    "Niños Heroes": [
+      {
+        "to": "Hospital General",
+        "line": "L3"
+      },
+      {
+        "to": "Balderas",
+        "line": "L3"
+      }
+    ],
+    "Juarez": [
+      {
+        "to": "Balderas",
+        "line": "L3"
+      }
+    ],
+    "Barranca del Muerto": [
+      {
+        "to": "Mixcoac",
+        "line": "L7"
+      }
+    ],
+    "Mixcoac": [
+      {
+        "to": "Barranca del Muerto",
+        "line": "L7"
+      },
+      {
+        "to": "San Antonio",
+        "line": "L7"
+      },
+      {
+        "to": "Insurgentes Sur",
+        "line": "L12"
+      }
+    ],
+    "San Antonio": [
+      {
+        "to": "Mixcoac",
+        "line": "L7"
+      },
+      {
+        "to": "San Pedro de los Pinos",
+        "line": "L7"
+      }
+    ],
+    "San Pedro de los Pinos": [
+      {
+        "to": "San Antonio",
+        "line": "L7"
+      },
+      {
+        "to": "Tacubaya",
+        "line": "L7"
+      }
+    ],
+    "Constituyentes": [
+      {
+        "to": "Tacubaya",
+        "line": "L7"
+      },
+      {
+        "to": "Auditorio",
+        "line": "L7"
+      }
+    ],
+    "Auditorio": [
+      {
+        "to": "Constituyentes",
+        "line": "L7"
+      },
+      {
+        "to": "Polanco",
+        "line": "L7"
+      }
+    ],
+    "Polanco": [
+      {
+        "to": "Auditorio",
+        "line": "L7"
+      }
+    ],
+    "Patriotismo": [
+      {
+        "to": "Tacubaya",
+        "line": "L9"
+      },
+      {
+        "to": "Chilpancingo",
+        "line": "L9"
+      }
+    ],
+    "Chilpancingo": [
+      {
+        "to": "Patriotismo",
+        "line": "L9"
+      },
+      {
+        "to": "Centro Medico",
+        "line": "L9"
+      }
+    ],
+    "Lazaro Cardenas": [
+      {
+        "to": "Centro Medico",
+        "line": "L9"
+      }
+    ],
+    "Insurgentes Sur": [
+      {
+        "to": "Mixcoac",
+        "line": "L12"
+      },
+      {
+        "to": "Hospital 20 de Noviembre",
+        "line": "L12"
+      }
+    ],
+    "Hospital 20 de Noviembre": [
+      {
+        "to": "Insurgentes Sur",
+        "line": "L12"
+      },
+      {
+        "to": "Zapata",
+        "line": "L12"
+      }
+    ],
+    "Parque de los Venados": [
+      {
+        "to": "Eje Central",
+        "line": "L12"
+      },
+      {
+        "to": "Zapata",
+        "line": "L12"
+      }
+    ],
+    "Eje Central": [
+      {
+        "to": "Parque de los Venados",
+        "line": "L12"
+      }
+    ]
+  },
+  "transfers": [
+    "Mixcoac",
+    "Zapata",
+    "Tacubaya",
+    "Centro Medico",
+    "Balderas"
+  ]
+}
